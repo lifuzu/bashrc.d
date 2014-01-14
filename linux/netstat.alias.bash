@@ -1,0 +1,1 @@
+alias ports='netstat -tulanp'
