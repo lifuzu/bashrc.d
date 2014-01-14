@@ -3,6 +3,8 @@ bashrc.d
 
 bashrc.d collects some alias, path, ps1, and editor definitions
 
+###Setup
+
 1. Clone the repo to your $HOME directory:
 <pre><code>
 cd ~
@@ -23,3 +25,15 @@ source ~/.bashrc
 </code></pre>
 4. Or open a new terminal
 5. Done!
+
+###Validate
+1. Go into ~/.bashrc.d
+<pre><code>
+cd ~/.bashrc.d 
+</code></pre>
+2. Try run 'gs', which trigger 'git status' command.
+<pre><code>
+gs 
+</code></pre>
+3. Enjoy!
+
