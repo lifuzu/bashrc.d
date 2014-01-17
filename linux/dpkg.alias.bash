@@ -1,0 +1,1 @@
+alias dpkg='sudo dpkg'
