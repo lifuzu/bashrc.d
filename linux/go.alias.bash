@@ -1,1 +1,1 @@
-alias go='sudo go'
+#alias go='sudo go'
