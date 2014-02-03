@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=FreePlane
+Icon=/usr/local/freeplane/freeplane.png
+Exec=/usr/local/freeplane/freeplane.sh
+Terminal=false

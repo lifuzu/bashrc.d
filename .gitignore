@@ -1,3 +1,4 @@
+ssh/config
 lib-cov
 *.seed
 *.log
