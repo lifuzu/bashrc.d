@@ -1,0 +1,7 @@
+Host example
+  Hostname <hostname>
+  IdentityFile ~/.ssh/id_rsa
+  User <username>
+  Port 22
+  ForwardX11Trusted yes
+  TCPKeepAlive yes
